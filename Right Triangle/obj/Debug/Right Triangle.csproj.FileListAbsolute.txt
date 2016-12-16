@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\Right Triangle\bin\Debug\Right Triangle.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\Right Triangle\bin\Debug\Right Triangle.exe
+c:\users\michael\documents\visual studio 2015\Projects\Right Triangle\bin\Debug\Right Triangle.pdb
+c:\users\michael\documents\visual studio 2015\Projects\Right Triangle\obj\Debug\Right Triangle.exe
+c:\users\michael\documents\visual studio 2015\Projects\Right Triangle\obj\Debug\Right Triangle.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\Right Triangle\obj\Debug\Right Triangle.csprojResolveAssemblyReference.cache

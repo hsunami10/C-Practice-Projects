@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\Right Traingle Andrew\bin\Debug\Right Traingle Andrew.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\Right Traingle Andrew\bin\Debug\Right Traingle Andrew.exe
+c:\users\michael\documents\visual studio 2015\Projects\Right Traingle Andrew\bin\Debug\Right Traingle Andrew.pdb
+c:\users\michael\documents\visual studio 2015\Projects\Right Traingle Andrew\obj\Debug\Right Traingle Andrew.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\Right Traingle Andrew\obj\Debug\Right Traingle Andrew.exe
+c:\users\michael\documents\visual studio 2015\Projects\Right Traingle Andrew\obj\Debug\Right Traingle Andrew.pdb
